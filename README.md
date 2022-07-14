@@ -3,3 +3,7 @@
 
 [![vim](https://img.shields.io/badge/vim-black?style=for-the-badge&logo=vim&logoColor=1A9540&link=https://github.com/)](https://github.com/hustavojhon)
 
+#### Fonts
+> https://www.nerdfont.com
+* Hack NF
+* Material Design
